@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: #f9f9f9;
+  font-size: 18px;
+}
+hr {
+  border: 3px solid #333;
+  width: 5%;
+}
+.spacer{
+  height: 100px;width:100%;
+}
+.caption{
+  font-size: 25 px !important;
+  text-align: left !important;
+  font-family: 'Lato',sans-serif;
+}
